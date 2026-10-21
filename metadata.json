@@ -1,0 +1,8 @@
+{
+  "name": "AICTE Document Verification Portal",
+  "description": "AICTE Document Verification and Scrutiny Portal with automated AI compliance checking, infrastructure geo-tag verification, evaluator review workflow, and APAAR integration.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
