@@ -1,6 +1,6 @@
-# 🏆 AICTE Document Verification Portal (DOC-VERIFY)
+# AICTE Document Verification Portal (DOC-VERIFY)
 
-**Smart India Hackathon 2024 Finalist Project**
+****
 
 A modern, production-ready React + Vite application for AICTE (All India Council for Technical Education) document verification, institutional approval scrutiny, infrastructure validation, and APAAR student registry integration.
 
